@@ -1,0 +1,15 @@
+Package: com.kanto.plus
+Name: Kanto+
+Description: Community menu for the Kanto client: quality of life, movement, catch helpers and encounter info.
+Maintainer: Kanto
+Author: Kanto
+Section: Tweaks
+Depends: mobilesubstrate
+Tag: compatible_min::ios15.0
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Installed-Size: 204
+Filename: ./debs/com.kanto.plus_0.1.0_iphoneos-arm64.deb
+Size: 51640
+MD5sum: 9bbbe9296e3612cc8e9b04fe04a7f5d8
+SHA256: 35fa8aeb80abee324cb837cd325f736dcd5cd90323aa3ce8330cc13e04f98ee6
